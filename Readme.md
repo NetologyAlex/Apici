@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ojoxbeasccl6er9i?svg=true)](https://ci.appveyor.com/project/NetologyAlex/apici)
